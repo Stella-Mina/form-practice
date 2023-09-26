@@ -196,6 +196,12 @@ form h2 {
   width: 100%;
 }
 
+.btn--submit:active {
+  background: #fff;
+  color: #0170bf;
+  border: 1px solid #d9d9d9;
+}
+
 .other-text {
   margin-top: 25px;
   font-size: 10px;
